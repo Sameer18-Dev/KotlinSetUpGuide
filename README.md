@@ -20,5 +20,7 @@
 
 # Resources
 
-https://kotlinlang.org/docs/reference/
+https://kotlinlang.org/docs/reference/<br>
+https://www.youtube.com/watch?v=F9UC9DY-vIU<br>
 https://developer.android.com/kotlin/get-started
+
