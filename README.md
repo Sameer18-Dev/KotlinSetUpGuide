@@ -17,3 +17,8 @@
   <img src="https://github.com/Sameer18-Dev/KotlinSetUpGuide/blob/master/app/images/k6.png" width="750">
 </p>
 <br>
+
+# Resources
+
+https://kotlinlang.org/docs/reference/
+https://developer.android.com/kotlin/get-started
